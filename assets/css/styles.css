@@ -32,9 +32,9 @@ a:hover {
 }
 
 #savant {
-    width: 80%;
-    max-height: 70%;
-    margin: -2.5rem 0;
+    width: 100%;
+    max-width: 591px;
+    margin: -3rem 0 -4rem 0;
 }
 
 #advice {
@@ -49,10 +49,6 @@ a:hover {
 @media (min-width: 992px) {
     body {
         padding: 2rem;
-    }
-
-    #savant {
-        width: 50%;
     }
 
     #about {
